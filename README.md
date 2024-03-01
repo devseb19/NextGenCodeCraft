@@ -1,6 +1,6 @@
 # low / lvl / dev - My Project Portfolio
 
-Welcome to low/lvl/dev, the central hub of my personal development projects. I'm Sebastian Robertson, and in this portfolio, you'll find a diverse range of projects that I've worked on, each exploring different areas of software development and computer science. My journey in each project is a testament to my passion for coding and continuous learning. This repo will focus largely on Rust programming, systems programming, and Python programming.   
+Welcome to low-lvl-dev, the central hub of my personal development projects. I'm Sebastian Robertson, and in this portfolio, you'll find a diverse range of projects that I've worked on, each exploring different areas of software development and computer science. My journey in each project is a testament to my passion for coding and continuous learning. This repo will focus largely on Rust programming, systems programming, and Python programming.   
 
 Feel free to explore each project, and I welcome any contributions, feedback, or questions you may have!
 
